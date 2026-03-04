@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkd_github_miruka_docusaurus_temp=globalThis.webpackChunkd_github_miruka_docusaurus_temp||[]).push([[235],{8552(u){u.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
