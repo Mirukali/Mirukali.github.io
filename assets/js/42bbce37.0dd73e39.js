@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmiruka_docusaurus=globalThis.webpackChunkmiruka_docusaurus||[]).push([[939],{2006(l){l.exports=JSON.parse('{"tag":{"label":"Skill","permalink":"/tags/skill","allTagsPath":"/tags","count":1,"items":[{"id":"feature/rpg/skill","title":"Skill","description":"Overview","permalink":"/feature/rpg/skill"}],"unlisted":false}}')}}]);

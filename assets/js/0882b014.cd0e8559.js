@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkd_github_miruka_docusaurus_temp=globalThis.webpackChunkd_github_miruka_docusaurus_temp||[]).push([[232],{6123(a){a.exports=JSON.parse('{"tag":{"label":"FAQ","permalink":"/tags/faq","allTagsPath":"/tags","count":1,"items":[{"id":"support/faq","title":"FAQ","description":"General Questions","permalink":"/support/faq"}],"unlisted":false}}')}}]);

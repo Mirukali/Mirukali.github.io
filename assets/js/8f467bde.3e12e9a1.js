@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmiruka_docusaurus=globalThis.webpackChunkmiruka_docusaurus||[]).push([[1129],{2217(e){e.exports=JSON.parse('{"tag":{"label":"Currency","permalink":"/tags/currency","allTagsPath":"/tags","count":1,"items":[{"id":"feature/currency","title":"Currency","description":"Overview","permalink":"/feature/currency"}],"unlisted":false}}')}}]);

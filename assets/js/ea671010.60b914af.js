@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmiruka_docusaurus=globalThis.webpackChunkmiruka_docusaurus||[]).push([[3376],{8781(a){a.exports=JSON.parse('{"tag":{"label":"NFT","permalink":"/tags/nft","allTagsPath":"/tags","count":1,"items":[{"id":"blockchain/nft/item-nfts","title":"Item NFTs","description":"","permalink":"/blockchain/nft/item-nfts"}],"unlisted":false}}')}}]);

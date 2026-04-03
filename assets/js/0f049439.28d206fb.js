@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmiruka_docusaurus=globalThis.webpackChunkmiruka_docusaurus||[]).push([[6666],{7283(e){e.exports=JSON.parse('{"tag":{"label":"TOS","permalink":"/tags/tos","allTagsPath":"/tags","count":1,"items":[{"id":"legal/terms-of-service","title":"Terms of Service","description":"TOS","permalink":"/legal/terms-of-service"}],"unlisted":false}}')}}]);
